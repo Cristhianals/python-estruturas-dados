@@ -29,6 +29,9 @@ Modifique o exercício anterior de pesquisa sequencial de dois valores para:
 ## 💻 Exemplo de Execução
 
 Digite o primeiro valor a procurar: 27
+
 Digite o segundo valor a procurar: 7
+
 27 achado primeiro na posição 2
+
 7 achado primeiro na posição 1

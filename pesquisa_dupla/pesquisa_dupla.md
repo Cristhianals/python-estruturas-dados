@@ -32,9 +32,13 @@ O programa deve:
 ## 💻 Exemplo de Execução
 
 Digite o valor a procurar: 27
+
 Digite outro valor a procurar: 7
+
 27 achado na posição 2
+
 7 achado na posição 1
+
 O primeiro valor encontrado foi 7
 
 ---

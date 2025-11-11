@@ -39,22 +39,31 @@ Onde o primeiro valor é a quantidade em estoque e o segundo é o preço unitár
 ## 💻 Exemplo de Execução
 
 Digite o produto e a quantidade.
+
 Quando terminar de digitar todos os produtos, digite 0
 
 Produto: tomate
+
 Quantidade: 5
 
 Produto: feijao
+
 Quantidade: 10
 
 Produto: cenoura
+
 Quantidade: 3
+
 Não temos cenoura em estoque.
 
 Custo total: 23.00
 
 Estoque atualizado:
+
 tomate -> quantidade: 995, preço: 2.30
+
 alface -> quantidade: 500, preço: 0.45
+
 batata -> quantidade: 2001, preço: 1.20
+
 feijao -> quantidade: 90, preço: 1.50

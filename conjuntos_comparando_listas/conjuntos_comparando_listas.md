@@ -38,21 +38,34 @@ Faça um programa que:
 
 # Conversão para conjuntos
 c1 = set(l1)
+
 c2 = set(l2)
 
 # Valores comuns
+
 comuns = c1 & c2
+
 # Valores exclusivos
 so_l1 = c1 - c2
+
 so_l2 = c2 - c1
+
 # Valores não repetidos
+
 nao_repetidos = c1 ^ c2
+
 # Primeira lista sem elementos repetidos da segunda
+
 l1_sem_repetidos = so_l1
 
 # Impressão dos resultados
+
 print(f"Valores comuns: {comuns}")
+
 print(f"Só na primeira lista: {so_l1}")
+
 print(f"Só na segunda lista: {so_l2}")
+
 print(f"Valores não repetidos: {nao_repetidos}")
+
 print(f"Primeira lista sem elementos repetidos da segunda: {l1_sem_repetidos}")

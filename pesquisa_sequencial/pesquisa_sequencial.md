@@ -37,12 +37,18 @@ O programa deve:
 ## 💻 Exemplo de Execução
 
 Digite o valor a procurar: 27
+
 27 achado em posição 2
+
 Se quiser verificar todos os valores, digite l
+
 Se quiser verificar o valor na posição, digite l[posicao]
+
 Digite o valor a procurar: 50
+
 50 não encontrado
 
+---
 
 > ⚙️ **Observação Importante:**  
 > As mensagens *"digite l"* e *"digite l[posicao]"* funcionam apenas quando o programa é executado em um **ambiente interativo do Python** (como o **IDLE** ou o **modo interativo do terminal**).  

@@ -48,16 +48,26 @@ O programa deve:
 ## 💻 Exemplo de Execução
 
 Digite S para adicionar uma expressão
+
 ou N para parar
+
 O que deseja fazer? S ou N: S
+
 Digite a expressão: (())
+
 OK, a expressão está correta
 
 Digite S para adicionar uma expressão
+
 ou N para parar
+
 O que deseja fazer? S ou N: S
+
 Digite a expressão: ())
+
 Erro
+
 Você fechou um parêntese sem abrir um antes,
+
 no 3° elemento da expressão ['(', ')', ')']
 

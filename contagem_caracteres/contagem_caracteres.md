@@ -17,8 +17,11 @@ Faça um programa que:
 ### Exemplo
 
 Entrada: O rato
+
 Saída: {"O":1, " ":1, "r":1, "a":1, "t":1, "o":1}
+
 Chaves: dict_keys(['O', ' ', 'r', 'a', 't', 'o'])
+
 Valores: dict_values([1, 1, 1, 1, 1, 1])
 
 ---

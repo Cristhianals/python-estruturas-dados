@@ -34,17 +34,27 @@ O programa deve:
 ## 💻 Exemplo de Execução
 
 Digite os valores da primeira lista (0 para sair): 3
+
 Digite os valores da primeira lista (0 para sair): 5
+
 Digite os valores da primeira lista (0 para sair): 0
+
 Os elementos da primeira lista são:
+
 3
+
 5
 
 Digite os valores da segunda lista (0 para sair): 8
+
 Digite os valores da segunda lista (0 para sair): 1
+
 Digite os valores da segunda lista (0 para sair): 0
+
 Os elementos da segunda lista são:
+
 8
+
 1
 
 A junção das duas listas é [3, 5, 8, 1]

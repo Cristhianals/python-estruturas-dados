@@ -39,5 +39,7 @@ T = [-10, -8, 0, 1, 2, 5, -2, -4]
 ## 💻 Exemplo de Execução
 
 A maior temperatura foi de 5 localizada no índice 5
+
 A menor temperatura foi de -10 localizada no índice 0
+
 A temperatura média é de 0.00

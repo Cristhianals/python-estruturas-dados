@@ -29,11 +29,16 @@ Utilizando **operações com conjuntos**, o programa deve listar:
 ---
 
 # Conversão para conjuntos
+
 c1 = set(l1)
+
 c2 = set(l2)
 
 # Comparação entre as versões
+
 mantidos = c1 & c2        # Elementos que não mudaram
+
 novos = c2 - c1           # Novos elementos
+
 removidos = c1 - c2       # Elementos removidos
 

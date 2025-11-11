@@ -32,14 +32,21 @@ O usuário digita operações e o programa realiza cada ação, mostrando o esta
 ## 💻 Exemplo de Execução
 
 Existem 10 clientes na primeira fila,
+
 E 10 na segunda fila
+
 Digite F para adicionar cliente na primeira fila,
+
 ou G para a segunda fila
+
 A para atender primeira fila, B para segunda fila, S para sair
+
 Operações: FGA
 
 cliente 11 adicionado na primeira fila
+
 cliente 11 adicionado na segunda fila
+
 cliente 1 atendido na primeira fila
 
 
