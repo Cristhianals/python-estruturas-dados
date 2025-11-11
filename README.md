@@ -1,4 +1,4 @@
-# 🏗️ Repositório de Exercícios de Python – Listas, Dicionários e Conjuntos
+# 🏗️ Exercícios de Python – Listas, Dicionários e Conjuntos
 
 Este repositório contém uma coleção de **exercícios práticos em Python** voltados para quem quer **aprender e fixar conceitos de estruturas de dados**, manipulação de listas, dicionários e conjuntos, além de lógica de programação básica.
 
@@ -11,10 +11,6 @@ Este repositório contém uma coleção de **exercícios práticos em Python** v
   - **Exemplos de entrada e saída**
   - **Código de referência**  
   - **Conceitos envolvidos**  
-
-- Cada exercício está em **arquivo Markdown independente**, pronto para leitura ou uso em sala de aula.
-
-- Estruturado para que você possa **praticar no Python IDLE, Jupyter ou qualquer editor**.
 
 ---
 
@@ -98,7 +94,7 @@ Cada pasta corresponde a um exercício específico. O arquivo .py contém a impl
 1. Certifique-se de ter o **Python 3** instalado. 
 2. Clone o repositório:
 ```bash
-git clone https://github.com/Cristhianals/python-exercicios-basicos
+git clone https://github.com/Cristhianals/python-estruturas-dados
 ```
 3. Entre na pasta do exercício desejado:
 ```bash
