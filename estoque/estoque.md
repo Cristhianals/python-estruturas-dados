@@ -36,6 +36,8 @@ Onde o primeiro valor é a quantidade em estoque e o segundo é o preço unitár
 
 ---
 
+## 💻 Exemplo de Execução
+
 Digite o produto e a quantidade.
 Quando terminar de digitar todos os produtos, digite 0
 

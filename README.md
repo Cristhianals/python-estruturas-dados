@@ -1,6 +1,6 @@
 # 🏗️ Exercícios de Python – Listas, Dicionários e Conjuntos
 
-Este repositório contém uma coleção de **exercícios práticos em Python** voltados para quem quer **aprender e fixar conceitos de estruturas de dados**, manipulação de listas, dicionários e conjuntos, além de lógica de programação básica.
+Este repositório contém uma coleção de **exercícios práticos em Python** que desenvolvi para aprender e fixar conceitos essenciais de **estruturas de dados**, como listas, dicionários e conjuntos, além de **lógica de programação básica**.
 
 ---
 
