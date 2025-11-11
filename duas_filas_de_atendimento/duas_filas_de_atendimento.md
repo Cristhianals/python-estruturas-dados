@@ -48,22 +48,21 @@ O programa deve:
 
 ## 💻 Exemplo de Execução
 
-Existem 10 clientes na primeira fila,
+Existem 10 clientes na primeira fila,  
 E 10 na segunda fila
 
-Digite F para adicionar um cliente ao fim da primeira fila,
-ou G para adicionar no fim da segunda fila.
-A, para realizar o atendimento da primeira fila,
-ou B, para o atendimento da segunda fila. S para sair.
+Digite F para adicionar um cliente ao fim da primeira fila,  
+ou G para adicionar no fim da segunda fila.  
+A, para realizar o atendimento da primeira fila,  
+ou B, para o atendimento da segunda fila. S para sair.  
 
 Quais operações (F, G, A, B ou S): FAGBS
 
-Cliente 1 da primeira fila atendido
-A operação A foi realizada
-Cliente 1 da segunda fila atendido
-A operação B foi realizada
+Cliente 1 da primeira fila atendido  
+A operação A foi realizada  
+Cliente 1 da segunda fila atendido  
+A operação B foi realizada  
 As operações ['F', 'A', 'G', 'B', 'S'] foram realizadas
-
 
 ---
 
